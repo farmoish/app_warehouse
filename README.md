@@ -42,3 +42,4 @@ https://github.com/farmoish/app_warehouse/releases/latest → APK'ni yuklab olin
 Settings → Secrets and variables → Actions → **New repository secret**:
 `FIREBASE_SERVICE_ACCOUNT_JSON` — "Firebase Remote Config Admin" rolidagi
 service account'ning JSON kaliti.
+# app_warehouse
